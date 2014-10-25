@@ -32,7 +32,7 @@ For more on 7th Sea and the exploding tens dice system, visit <a href="http://ww
 
 ## Kept Dice
 
-A roll is referred to as "X keep Y", e.g. 4 keep 2 means roll 4 dice, keep the highest
+A roll is referred to as "X keep Y", e.g. 4 keep 2 means roll four dice, keep the highest
 two.
 
 ```{r}
